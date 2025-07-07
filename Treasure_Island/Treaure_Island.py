@@ -26,7 +26,7 @@ print(   r'''   (•_•)            (•_•)
   /|   |\          /|   |\
   / \   \         /   / \
      Right             Left''')
-choice1 = input('Which way are you going ? Type left or right')
+choice1 = input('Which way are you going ? Type left or right\n')
 if choice1 == "left":
     print(r'''                          'Xx  xX*,
                           ,*xXXx_xXx
